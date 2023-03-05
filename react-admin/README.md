@@ -10,3 +10,9 @@
   cd react-admin
   code .
   ```
+
+* Install [Material UI](https://mui.com/material-ui/getting-started/installation/)
+
+  ```bash
+  npm install @mui/material @emotion/react @emotion/styled
+  ```
