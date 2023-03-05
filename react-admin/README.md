@@ -16,3 +16,9 @@
   ```bash
   npm install @mui/material @emotion/react @emotion/styled
   ```
+
+* Install Data Grid (https://mui.com/x/react-data-grid/getting-started/#installation)
+
+  ```bash
+  npm install @mui/x-data-grid
+  ```
