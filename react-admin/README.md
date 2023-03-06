@@ -34,3 +34,9 @@
   ```bash
   npm install react-router-dom@6 react-pro-sidebar@0.7.1 formik yup
   ```
+
+* Install [Full Calendar](https://fullcalendar.io/docs/initialize-es6)
+
+  ```bash
+  npm install @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list
+  ```
