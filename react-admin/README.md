@@ -28,3 +28,9 @@
   ```bash
   npm install @mui/icons-material
   ```
+
+* Install React Router, React Pro Sidebar, formik and yum
+
+  ```bash
+  npm install react-router-dom@6 react-pro-sidebar@0.7.1 formik yup
+  ```
