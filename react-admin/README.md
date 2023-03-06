@@ -40,3 +40,9 @@
   ```bash
   npm install @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list
   ```
+
+* Install [Nivo Charts](https://nivo.rocks/components)
+
+  ```bash
+  npm install @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo
+  ```
